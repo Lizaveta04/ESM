@@ -1,0 +1,23 @@
+{
+  "name": "esm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lizaveta04/ESM.git"
+  },
+  "author": "Elizaveta Kuzmicheva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lizaveta04/ESM/issues"
+  },
+  "homepage": "https://github.com/Lizaveta04/ESM#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
